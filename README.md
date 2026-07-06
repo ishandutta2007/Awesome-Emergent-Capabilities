@@ -1,6 +1,12 @@
 # 🚀 Awesome-Emergent-Capabilities
 
 ![Banner](assets/banner.svg)
+
+<meta name="description" content="A curated list of emergent capabilities in AI, tracking their history, variants, and real-world infrastructure applications.">
+
+<p>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 ## Emergent Capabilities in AI: History, Progression, Variants, & Applications
 
 An **Emergent Capability** is a qualitative behavioral paradigm or performance threshold in artificial intelligence that manifests spontaneously as a model's scale—measured via total parameter footprint ($N$), pre-training token dataset size ($D$), or cumulative floating-point training operations (FLOPs)—surpasses a critical inflection point [INDEX: 15]. While low-scale architectures display near-random or flat linear performance on complex reasoning tasks, scaling the computational matrix triggers a sharp, non-linear phase transition [INDEX: 15]. 
