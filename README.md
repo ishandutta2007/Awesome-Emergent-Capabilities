@@ -1,4 +1,6 @@
-# Awesome-Emergent-Capabilities
+# 🚀 Awesome-Emergent-Capabilities
+
+![Banner](assets/banner.svg)
 ## Emergent Capabilities in AI: History, Progression, Variants, & Applications
 
 An **Emergent Capability** is a qualitative behavioral paradigm or performance threshold in artificial intelligence that manifests spontaneously as a model's scale—measured via total parameter footprint ($N$), pre-training token dataset size ($D$), or cumulative floating-point training operations (FLOPs)—surpasses a critical inflection point [INDEX: 15]. While low-scale architectures display near-random or flat linear performance on complex reasoning tasks, scaling the computational matrix triggers a sharp, non-linear phase transition [INDEX: 15]. 
@@ -7,7 +9,7 @@ The network independently self-organizes its latent representation layers, givin
 
 ---
 
-## 1. The Macro Chronological Evolution
+## 🕒 1. The Macro Chronological Evolution
 
 The scientific understanding of emergent behaviors has transitioned from unexpected empirical discoveries to structured power-law scaling metrics, moving toward inference-time compute transformations and direct mechanistic neuron tracking.
 
@@ -25,7 +27,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Task-Domain Variants
+## ⚙️ 2. Core Functional & Task-Domain Variants
 
 Emergent behaviors manifest across distinct operational axes, spanning abstract semantic abstractions, symbolic logic pipelines, and spatial physical boundaries.
 
@@ -38,7 +40,7 @@ Emergent behaviors manifest across distinct operational axes, spanning abstract 
 
 ---
 
-## 3. The Emergence Inflection Matrix
+## 📈 3. The Emergence Inflection Matrix
 
 To predict when abstract processing capabilities will spark across deep architectures, MLOps framework infrastructure monitors the intersection of active compute allocation thresholds.
 
@@ -57,7 +59,7 @@ flowchart TB
 
 ---
 
-## 4. Production Engineering Challenges & Hardening Mitigations
+## 🛡️ 4. Production Engineering Challenges & Hardening Mitigations
 
 Managing spontaneous capability jumps across commercial enterprise AI deployments introduces deep safety misalignments and system control vulnerabilities.
 
@@ -68,7 +70,7 @@ Managing spontaneous capability jumps across commercial enterprise AI deployment
 
 ---
 
-## 5. Frontier Real-World Infrastructure Applications
+## 🌍 5. Frontier Real-World Infrastructure Applications
 
 | Application | Description | Year First Used | Paper Link | Detailed Page |
 |---|---|---|---|---|

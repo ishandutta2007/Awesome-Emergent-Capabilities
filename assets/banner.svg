@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <rect width="800" height="200" fill="#2d3436"/>
+  <text x="50%" y="50%" font-size="40" fill="#00cec9" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif">
+    Awesome Emergent Capabilities
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
+  </text>
+</svg>
